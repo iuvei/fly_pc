@@ -1,0 +1,42 @@
+export var menu_list = {
+	'3':[
+	{
+		title:'整合',
+		showId:'zh'
+	},
+	{
+		title:'第一球',
+		showId:'b1'
+	},
+	{
+		title:'第二球',
+		showId:'b2'
+	},
+	{
+		title:'第三球',
+		showId:'b3'
+	},
+	{
+		title:'第四球',
+		showId:'b4'
+	},
+	{
+		title:'第五球',
+		showId:'b5'
+	},
+	],
+	'6':[
+	{
+		title:'两面盘',
+		showId:'lmp'
+	},
+	{
+		title:'单号1 ~ 10',
+		showId:'1T10'
+	},
+	{
+		title:'冠亚军组合',
+		showId:'gyzh'
+	},
+	]
+}
